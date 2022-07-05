@@ -9,10 +9,6 @@
   </a>
 </p>
 
-.filter-green{
-  filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
-}
-
 <p align="center">
 I am a computational biologist at the Institute of Medical Statistics and Computational Biology (IMSB) of the University of Cologne.
 </p>
