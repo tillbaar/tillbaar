@@ -9,6 +9,10 @@
   </a>
 </p>
 
+.filter-green{
+  filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
+}
+
 <p align="center">
 I am a computational biologist at the Institute of Medical Statistics and Computational Biology (IMSB) of the University of Cologne.
 </p>
@@ -52,9 +56,13 @@ I am a computational biologist at the Institute of Medical Statistics and Comput
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="R" width="40" height="40"/>
   </a>&emsp;
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>&emsp;
   <a href="https://julialang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/>
+  </a>&emsp;
+  <a href="https://www.latex-project.org/" target="_blank">
+    <img src="https://api.iconify.design/simple-icons/overleaf.svg?color=%2347a141" alt="latex" width="40" height="40"/>
+      
   </a>
 </p>
